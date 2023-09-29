@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const form = document.getElementById('search-form');
     const resultContainer = document.getElementById('result-container');
   
-    form.addEventListener('submit', async function (e) {
+    form.addEventListener('submit', function (e) {
       e.preventDefault();
   
       const sourceCity = document.getElementById('source').value.trim();
@@ -13,19 +13,23 @@ document.addEventListener('DOMContentLoaded', function () {
         return;
       }
   
-      try {
-        const response = await fetch(`http://127.0.0.1:3000/search?source=${sourceCity}&destination=${destinationCity}`);
-        const data = await response.json();
+      // Load the JSON data directly from the file
+      fetch('cities.json')
+        .then((response) => response.json())
+        .then((data) => {
+          const matchingCity = data.data.find((city) => city.name === destinationCity);
   
-        if (response.ok) {
-          resultContainer.innerHTML = `<p>Destination City: ${data.destinationCity}</p>`;
-        } else {
-          resultContainer.innerHTML = `<p>Error: ${data.error}</p>`;
-        }
-      } catch (error) {
-        console.error('Error fetching data from the server:', error);
-        resultContainer.innerHTML = '<p>Error: Internal server error</p>';
-      }
+          if (!matchingCity) {
+            resultContainer.innerHTML = '<p>Error: Source city not found in the data.</p>';
+          } else {
+            const resultCity = matchingCity.name;
+            resultContainer.innerHTML = `<p>Destination City: ${resultCity}</p>`;
+          }
+        })
+        .catch((error) => {
+          console.error('Error loading JSON data:', error);
+          resultContainer.innerHTML = '<p>Error: Unable to load data</p>';
+        });
     });
   });
   

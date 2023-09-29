@@ -16,7 +16,7 @@ app.get('/search', (req, res) => {
     return res.status(400).json({ error: 'Source and destination cities cannot be the same.' });
   }
 
-  const matchingCity = citiesData.find((city) => city.name === source);
+  const matchingCity = citiesData.data.find((city) => city.name === source);
 
   if (!matchingCity) {
     return res.status(404).json({ error: 'Source city not found in the data.' });
@@ -30,3 +30,8 @@ app.get('/search', (req, res) => {
     res.status(500).json({ error: 'Internal server error' });
   }
 });
+
+app.listen(port, () => {
+  console.log(`Server is running on port ${port}`);
+});
+
