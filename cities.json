@@ -1,0 +1,4514 @@
+{
+    "data": [
+    {
+    "id": 1,
+    "name": "New Delhi",
+    "state": {
+    "id": 1,
+    "country_id": 2,
+    "name": "Delhi",
+    "created_at": "2023-02-18T11:51:12.000000Z",
+    "updated_at": "2023-02-18T11:51:12.000000Z"
+    }
+    },
+    {
+    "id": 4,
+    "name": "Visakhapatnam",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 5,
+    "name": "Vijayawada",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 6,
+    "name": "Guntur",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 7,
+    "name": "Nellore",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 8,
+    "name": "Rajamahendravaram",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 9,
+    "name": "Kurnool",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 10,
+    "name": "Kakinada",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 11,
+    "name": "Tirupati",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 12,
+    "name": "Kadapa",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 13,
+    "name": "Eluru",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 14,
+    "name": "Vizianagaram",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 15,
+    "name": "Anantapur",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 16,
+    "name": "Nandyal",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 17,
+    "name": "Ongole",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 18,
+    "name": "Adoni",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 19,
+    "name": "Madanapalle",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 20,
+    "name": "Machilipatnam",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 21,
+    "name": "Tenali",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 22,
+    "name": "Proddatur",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 23,
+    "name": "Chittoor",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 24,
+    "name": "Hindupur",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 25,
+    "name": "Srikakulam",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 26,
+    "name": "Bhimavaram",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 27,
+    "name": "Tadepalligudem",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 28,
+    "name": "Guntakal",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 29,
+    "name": "Dharmavaram",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 30,
+    "name": "Gudivada",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 31,
+    "name": "Narasaraopet",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 32,
+    "name": "Kadiri",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 33,
+    "name": "Tadipatri",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 34,
+    "name": "Mangalagiri",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 35,
+    "name": "Chilakaluripet",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 36,
+    "name": "Hyderabad",
+    "state": {
+    "id": 4,
+    "country_id": 2,
+    "name": "Telangana",
+    "created_at": "2023-02-19T16:23:36.000000Z",
+    "updated_at": "2023-02-19T16:23:36.000000Z"
+    }
+    },
+    {
+    "id": 37,
+    "name": "Warangal",
+    "state": {
+    "id": 4,
+    "country_id": 2,
+    "name": "Telangana",
+    "created_at": "2023-02-19T16:23:36.000000Z",
+    "updated_at": "2023-02-19T16:23:36.000000Z"
+    }
+    },
+    {
+    "id": 38,
+    "name": "Nizamabad",
+    "state": {
+    "id": 4,
+    "country_id": 2,
+    "name": "Telangana",
+    "created_at": "2023-02-19T16:23:36.000000Z",
+    "updated_at": "2023-02-19T16:23:36.000000Z"
+    }
+    },
+    {
+    "id": 39,
+    "name": "Khammam",
+    "state": {
+    "id": 4,
+    "country_id": 2,
+    "name": "Telangana",
+    "created_at": "2023-02-19T16:23:36.000000Z",
+    "updated_at": "2023-02-19T16:23:36.000000Z"
+    }
+    },
+    {
+    "id": 40,
+    "name": "Karimnagar",
+    "state": {
+    "id": 4,
+    "country_id": 2,
+    "name": "Telangana",
+    "created_at": "2023-02-19T16:23:36.000000Z",
+    "updated_at": "2023-02-19T16:23:36.000000Z"
+    }
+    },
+    {
+    "id": 41,
+    "name": "Ramagundam",
+    "state": {
+    "id": 4,
+    "country_id": 2,
+    "name": "Telangana",
+    "created_at": "2023-02-19T16:23:36.000000Z",
+    "updated_at": "2023-02-19T16:23:36.000000Z"
+    }
+    },
+    {
+    "id": 42,
+    "name": "Mahabubnagar",
+    "state": {
+    "id": 4,
+    "country_id": 2,
+    "name": "Telangana",
+    "created_at": "2023-02-19T16:23:36.000000Z",
+    "updated_at": "2023-02-19T16:23:36.000000Z"
+    }
+    },
+    {
+    "id": 43,
+    "name": "Nalgonda",
+    "state": {
+    "id": 4,
+    "country_id": 2,
+    "name": "Telangana",
+    "created_at": "2023-02-19T16:23:36.000000Z",
+    "updated_at": "2023-02-19T16:23:36.000000Z"
+    }
+    },
+    {
+    "id": 44,
+    "name": "Adilabad",
+    "state": {
+    "id": 4,
+    "country_id": 2,
+    "name": "Telangana",
+    "created_at": "2023-02-19T16:23:36.000000Z",
+    "updated_at": "2023-02-19T16:23:36.000000Z"
+    }
+    },
+    {
+    "id": 45,
+    "name": "Suryapet",
+    "state": {
+    "id": 4,
+    "country_id": 2,
+    "name": "Telangana",
+    "created_at": "2023-02-19T16:23:36.000000Z",
+    "updated_at": "2023-02-19T16:23:36.000000Z"
+    }
+    },
+    {
+    "id": 46,
+    "name": "Miryalaguda",
+    "state": {
+    "id": 4,
+    "country_id": 2,
+    "name": "Telangana",
+    "created_at": "2023-02-19T16:23:36.000000Z",
+    "updated_at": "2023-02-19T16:23:36.000000Z"
+    }
+    },
+    {
+    "id": 47,
+    "name": "Siddipet",
+    "state": {
+    "id": 4,
+    "country_id": 2,
+    "name": "Telangana",
+    "created_at": "2023-02-19T16:23:36.000000Z",
+    "updated_at": "2023-02-19T16:23:36.000000Z"
+    }
+    },
+    {
+    "id": 48,
+    "name": "Jagtial",
+    "state": {
+    "id": 4,
+    "country_id": 2,
+    "name": "Telangana",
+    "created_at": "2023-02-19T16:23:36.000000Z",
+    "updated_at": "2023-02-19T16:23:36.000000Z"
+    }
+    },
+    {
+    "id": 49,
+    "name": "Mancherial",
+    "state": {
+    "id": 4,
+    "country_id": 2,
+    "name": "Telangana",
+    "created_at": "2023-02-19T16:23:36.000000Z",
+    "updated_at": "2023-02-19T16:23:36.000000Z"
+    }
+    },
+    {
+    "id": 50,
+    "name": "Ludhiana",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 51,
+    "name": "Amritsar",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 52,
+    "name": "Jalandhar",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 53,
+    "name": "Patiala",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 54,
+    "name": "Bathinda",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 55,
+    "name": "Mohali",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 56,
+    "name": "Firozpur",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 57,
+    "name": "Batala",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 58,
+    "name": "Pathankot",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 59,
+    "name": "Moga",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 60,
+    "name": "Abohar",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 61,
+    "name": "Malerkotla",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 62,
+    "name": "Khanna",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 63,
+    "name": "Phagwara",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 64,
+    "name": "Kapurthala",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 65,
+    "name": "Rajpura",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 66,
+    "name": "Muktsar",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 67,
+    "name": "Hoshiarpur",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 68,
+    "name": "Faridkot",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 69,
+    "name": "Barnala",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 70,
+    "name": "Sunam",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 71,
+    "name": "Chandigarh",
+    "state": {
+    "id": 25,
+    "country_id": 2,
+    "name": "Punjab",
+    "created_at": "2023-02-19T16:31:24.000000Z",
+    "updated_at": "2023-02-19T16:31:24.000000Z"
+    }
+    },
+    {
+    "id": 72,
+    "name": "Kanpur",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 73,
+    "name": "Lucknow",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 74,
+    "name": "Ghaziabad",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 75,
+    "name": "Agra",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 76,
+    "name": "Meerut",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 77,
+    "name": "Varanasi",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 78,
+    "name": "Prayagraj",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 79,
+    "name": "Bareilly",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 80,
+    "name": "Aligarh",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 81,
+    "name": "Moradabad",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 82,
+    "name": "Saharanpur",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 83,
+    "name": "Gorakhpur",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 84,
+    "name": "Noida",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 85,
+    "name": "Firozabad",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 86,
+    "name": "Jhansi",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 87,
+    "name": "Muzaffarnagar",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 88,
+    "name": "Mathura Vrindavan",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 89,
+    "name": "Ayodhya",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 90,
+    "name": "Rampur",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 91,
+    "name": "Shahjahanpur",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 92,
+    "name": "Farrukhabad",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 93,
+    "name": "Budaun",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 94,
+    "name": "Maunath Bhanjan",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 95,
+    "name": "Hapur",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 96,
+    "name": "Etawah",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 97,
+    "name": "Mirzapur",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 98,
+    "name": "Bulandshahr",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 99,
+    "name": "Sambhal",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 100,
+    "name": "Amroha",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 101,
+    "name": "Hardoi",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 102,
+    "name": "Fatehpur",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 103,
+    "name": "Raebareli",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 104,
+    "name": "Orai",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 105,
+    "name": "Sitapur",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 106,
+    "name": "Bahraich",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 107,
+    "name": "Modinagar",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 108,
+    "name": "Unnao",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 109,
+    "name": "Jaunpur",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 110,
+    "name": "Lakhimpur",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 111,
+    "name": "Hathras",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 112,
+    "name": "Banda",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 113,
+    "name": "Pilibhit",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 114,
+    "name": "Kasganj",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 115,
+    "name": "Awagarh",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 116,
+    "name": "Shamli",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 117,
+    "name": "Shikohabad",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 118,
+    "name": "Greater Noida",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 119,
+    "name": "Tanda",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 120,
+    "name": "Ballia",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 121,
+    "name": "Akbarpur",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 122,
+    "name": "Chandausi",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 123,
+    "name": "Basti",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 124,
+    "name": "Sahaswan",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 125,
+    "name": "Bijnor",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 126,
+    "name": "Azamgarh",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 127,
+    "name": "Sultanpur",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 128,
+    "name": "Ghazipur",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 129,
+    "name": "Badaun",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 130,
+    "name": "Deoria",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 131,
+    "name": "Etah",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 132,
+    "name": "Lalitpur",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 133,
+    "name": "Mainpuri",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 134,
+    "name": "Gonda",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 135,
+    "name": "Khurja",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 136,
+    "name": "Barabanki",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 137,
+    "name": "Jaipur",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 138,
+    "name": "Kochi",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 139,
+    "name": "Thiruvananthapuram",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 140,
+    "name": "Kanyakumari",
+    "state": {
+    "id": 28,
+    "country_id": 2,
+    "name": "Tamil Nadu",
+    "created_at": "2023-02-19T16:31:42.000000Z",
+    "updated_at": "2023-02-19T16:31:42.000000Z"
+    }
+    },
+    {
+    "id": 141,
+    "name": "Gautam Buddha Nagar",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 142,
+    "name": "Mathura",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 143,
+    "name": "Baduan",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 144,
+    "name": "Mau",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 145,
+    "name": "Jalaun",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 146,
+    "name": "Lakhimpur Kheri",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 147,
+    "name": "Ambedkar Nagar",
+    "state": {
+    "id": 32,
+    "country_id": 2,
+    "name": "Uttar Pradesh",
+    "created_at": "2023-02-19T16:34:04.000000Z",
+    "updated_at": "2023-02-19T16:34:04.000000Z"
+    }
+    },
+    {
+    "id": 148,
+    "name": "Shimla",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 149,
+    "name": "Dharamsala",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 150,
+    "name": "Solan",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 151,
+    "name": "Mandi",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 152,
+    "name": "Palampur",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 153,
+    "name": "Baddi",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 154,
+    "name": "Nahan",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 155,
+    "name": "Paonta Sahib",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 156,
+    "name": "Sundarnagar",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 157,
+    "name": "Chamba",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 158,
+    "name": "Una",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 159,
+    "name": "Kullu",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 160,
+    "name": "Hamirpur",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 161,
+    "name": "Bilaspur",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 162,
+    "name": "Yol Cantonment",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 163,
+    "name": "Nalagarh",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 164,
+    "name": "Nurpur",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 165,
+    "name": "Kangra",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 166,
+    "name": "Baijnath Paprola",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 167,
+    "name": "Santokhgarh",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 168,
+    "name": "Mehatpur Basdehra",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 169,
+    "name": "Shamshi",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 170,
+    "name": "Parwanoo",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 171,
+    "name": "Manali",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 172,
+    "name": "Tira Sujanpur",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 173,
+    "name": "Ghumarwin",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 174,
+    "name": "Dalhousie",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 175,
+    "name": "Rohru",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 176,
+    "name": "Nagrota Bagwan",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 177,
+    "name": "Jawalamukhi",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 178,
+    "name": "Jogindernagar",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 179,
+    "name": "Dera Gopipur",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 180,
+    "name": "Sarkaghat",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 181,
+    "name": "Jhakhri",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 182,
+    "name": "Indora",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 183,
+    "name": "Bhuntar",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 184,
+    "name": "Nadaun",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 185,
+    "name": "Theog",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 186,
+    "name": "Kasauli",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 187,
+    "name": "Gagret",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 188,
+    "name": "Chuari Khas",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 189,
+    "name": "Daulatpur",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 190,
+    "name": "Sabathu",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 191,
+    "name": "Sabathu Cantonment",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 192,
+    "name": "Dalhousie Cantonment",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 193,
+    "name": "Rajgarh",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 194,
+    "name": "Arki",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 195,
+    "name": "Dagshai",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 196,
+    "name": "Dagshai Cantonment",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 197,
+    "name": "Seoni",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 198,
+    "name": "Talai",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 199,
+    "name": "Jutogh Cantonment",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 200,
+    "name": "Jutogh",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 201,
+    "name": "Chaupal",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 202,
+    "name": "Rewalsar",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 203,
+    "name": "Bakloh",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 204,
+    "name": "Bakloh Cantonment",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 205,
+    "name": "Jubbal",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 206,
+    "name": "Bhota",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 207,
+    "name": "Banjar",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 208,
+    "name": "Naina Devi",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 209,
+    "name": "Kotkhai",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 210,
+    "name": "Narkanda",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 211,
+    "name": "Jodhpur",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 212,
+    "name": "Kota",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 213,
+    "name": "Bikaner",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 214,
+    "name": "Bhiwadi",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 215,
+    "name": "Udaipur",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 216,
+    "name": "Ajmer",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 217,
+    "name": "Bhilwara",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 218,
+    "name": "Alwar",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 219,
+    "name": "Sikar",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 220,
+    "name": "Bharatpur",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 221,
+    "name": "Pali",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 222,
+    "name": "Sri Ganganagar",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 223,
+    "name": "Kishangarh",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 224,
+    "name": "Baran",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 225,
+    "name": "Dhaulpur",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 226,
+    "name": "Tonk",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 227,
+    "name": "Beawar",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 228,
+    "name": "Hanumangarh",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 229,
+    "name": "Banswara",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 230,
+    "name": "Dungarpur",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 231,
+    "name": "Pratapgarh",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 232,
+    "name": "Sawai Madhopur",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 233,
+    "name": "Churu",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 234,
+    "name": "Jhunjhunu",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 235,
+    "name": "Chittaurgarh",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 236,
+    "name": "Makrana",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 237,
+    "name": "Nagaur",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 238,
+    "name": "Kozhikode",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 239,
+    "name": "Kollam",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 240,
+    "name": "Thrissur",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 241,
+    "name": "Kannur",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 242,
+    "name": "Alappuzha",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 243,
+    "name": "Kottayam",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 244,
+    "name": "Palakkad",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 245,
+    "name": "Manjeri",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 246,
+    "name": "Thalassery",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 247,
+    "name": "Thrippunithura",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 248,
+    "name": "Ponnani",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 249,
+    "name": "Vatakara",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 250,
+    "name": "Kanhangad",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 251,
+    "name": "Payyanur",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 252,
+    "name": "Koyilandy",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 253,
+    "name": "Parappanangadi",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 254,
+    "name": "Kalamassery",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 255,
+    "name": "Kodungallur",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 256,
+    "name": "Neyyattinkara",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 257,
+    "name": "Tanur",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 258,
+    "name": "Kayamkulam",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 259,
+    "name": "Malappuram",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 260,
+    "name": "Guruvayur",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 261,
+    "name": "Thrikkakkara",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 262,
+    "name": "Wadakkancherry",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 263,
+    "name": "Nedumangad",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 264,
+    "name": "Kondotty",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 265,
+    "name": "Tirurangadi",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 266,
+    "name": "Tirur",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 267,
+    "name": "Panoor",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 268,
+    "name": "Kasaragod",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 269,
+    "name": "Feroke",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 270,
+    "name": "Kunnamkulam",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 271,
+    "name": "Ottappalam",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 272,
+    "name": "Tiruvalla",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 273,
+    "name": "Thodupuzha",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 274,
+    "name": "Perinthalmanna",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 275,
+    "name": "Chalakudy",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 276,
+    "name": "Payyoli",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 277,
+    "name": "Koduvally",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 278,
+    "name": "Mananthavady",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 279,
+    "name": "Changanassery",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 280,
+    "name": "Mattanur",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 281,
+    "name": "Punalur",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 282,
+    "name": "Nilambur",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 283,
+    "name": "Cherthala",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 284,
+    "name": "Sultan Bathery",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 285,
+    "name": "Maradu",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 286,
+    "name": "Kottakkal",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 287,
+    "name": "Taliparamba",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 288,
+    "name": "Shornur",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 289,
+    "name": "Pandalam",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 290,
+    "name": "Kattappana",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 291,
+    "name": "Cherpulassery",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 292,
+    "name": "Mukkam",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 293,
+    "name": "Iritty",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 294,
+    "name": "Valanchery",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 295,
+    "name": "Varkala",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 296,
+    "name": "Nileshwaram",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 297,
+    "name": "Chavakkad",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 298,
+    "name": "Kothamangalam",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 299,
+    "name": "Pathanamthitta",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 300,
+    "name": "Attingal",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 301,
+    "name": "Paravur",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 302,
+    "name": "Ramanattukara",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 303,
+    "name": "Mannarkkad",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 304,
+    "name": "Erattupetta",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 305,
+    "name": "Sreekandapuram",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 306,
+    "name": "Angamaly",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 307,
+    "name": "Chittur Thathamangalam",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 308,
+    "name": "Kalpetta",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 309,
+    "name": "North Paravur",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 310,
+    "name": "Haripad",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 311,
+    "name": "Muvattupuzha",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 312,
+    "name": "Kottarakara",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 313,
+    "name": "Kuthuparamba",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 314,
+    "name": "Adoor",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 315,
+    "name": "Irinjalakuda",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 316,
+    "name": "Pattambi",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 317,
+    "name": "Anthoor",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 318,
+    "name": "Perumbavoor",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 319,
+    "name": "Piravom",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 320,
+    "name": "Ettumanoor",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 321,
+    "name": "Mavelikkara",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 322,
+    "name": "Karunagappalli",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 323,
+    "name": "Eloor",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 324,
+    "name": "Chengannur",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 325,
+    "name": "Vaikom",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 326,
+    "name": "Aluva",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 327,
+    "name": "Pala",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 328,
+    "name": "Koothattukulam",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 329,
+    "name": "Munnar",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 330,
+    "name": "Thekkady",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 331,
+    "name": "Bangaluru",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 332,
+    "name": "Shivamogga",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 333,
+    "name": "Ballari",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 334,
+    "name": "Tumakuru",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 335,
+    "name": "Kalaburagi",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 336,
+    "name": "Chikkamagaluru",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 337,
+    "name": "Davanagere",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 338,
+    "name": "Udupi",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 339,
+    "name": "Belagavi",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 340,
+    "name": "Mangaluru",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 341,
+    "name": "Bidar",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 342,
+    "name": "Raichur",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 343,
+    "name": "Chitradurga",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 344,
+    "name": "Kolar",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 345,
+    "name": "Mandya",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 346,
+    "name": "Vijayapura",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 347,
+    "name": "Bagalkote",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 348,
+    "name": "Hosapete",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 349,
+    "name": "Gadag Betageri",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 350,
+    "name": "Hassan",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 351,
+    "name": "Gangavathi",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 352,
+    "name": "Bhadravathi",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 353,
+    "name": "Robertsonpet",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 354,
+    "name": "Ranebennur",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 355,
+    "name": "Gadag",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 356,
+    "name": "Hubali Dharwad",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 357,
+    "name": "Hubballi",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 358,
+    "name": "Chikkaballapur",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 359,
+    "name": "Ramanagara",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 360,
+    "name": "Dharwad",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 361,
+    "name": "Chamarajanagar",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 362,
+    "name": "Yadgiri",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 363,
+    "name": "Haveri",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 364,
+    "name": "Madikeri",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 365,
+    "name": "Uttara Kannada",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 366,
+    "name": "Koppal",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 367,
+    "name": "Karwar",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 368,
+    "name": "Raibag",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 369,
+    "name": "Hanur",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 370,
+    "name": "Doddaballapura",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 371,
+    "name": "Chintamani",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 372,
+    "name": "Basavana Bagewadi",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 373,
+    "name": "Magadi",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 374,
+    "name": "Pandavapura",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 375,
+    "name": "Badami",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 376,
+    "name": "Mysore",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 377,
+    "name": "Hampi",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 378,
+    "name": "Mount Abu",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 379,
+    "name": "JAISALMER",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 380,
+    "name": "kolkata",
+    "state": {
+    "id": 31,
+    "country_id": 2,
+    "name": "West Bengal",
+    "created_at": "2023-02-19T16:32:04.000000Z",
+    "updated_at": "2023-02-19T16:32:04.000000Z"
+    }
+    },
+    {
+    "id": 381,
+    "name": "madurai",
+    "state": {
+    "id": 28,
+    "country_id": 2,
+    "name": "Tamil Nadu",
+    "created_at": "2023-02-19T16:31:42.000000Z",
+    "updated_at": "2023-02-19T16:31:42.000000Z"
+    }
+    },
+    {
+    "id": 382,
+    "name": "ooty",
+    "state": {
+    "id": 28,
+    "country_id": 2,
+    "name": "Tamil Nadu",
+    "created_at": "2023-02-19T16:31:42.000000Z",
+    "updated_at": "2023-02-19T16:31:42.000000Z"
+    }
+    },
+    {
+    "id": 383,
+    "name": "Puducherry",
+    "state": {
+    "id": 28,
+    "country_id": 2,
+    "name": "Tamil Nadu",
+    "created_at": "2023-02-19T16:31:42.000000Z",
+    "updated_at": "2023-02-19T16:31:42.000000Z"
+    }
+    },
+    {
+    "id": 384,
+    "name": "darjeeling",
+    "state": {
+    "id": 31,
+    "country_id": 2,
+    "name": "West Bengal",
+    "created_at": "2023-02-19T16:32:04.000000Z",
+    "updated_at": "2023-02-19T16:32:04.000000Z"
+    }
+    },
+    {
+    "id": 385,
+    "name": "ahemdabad",
+    "state": {
+    "id": 11,
+    "country_id": 2,
+    "name": "Gujrat",
+    "created_at": "2023-02-19T16:28:26.000000Z",
+    "updated_at": "2023-02-19T16:28:26.000000Z"
+    }
+    },
+    {
+    "id": 386,
+    "name": "auli",
+    "state": {
+    "id": 30,
+    "country_id": 2,
+    "name": "Uttarakhand",
+    "created_at": "2023-02-19T16:31:59.000000Z",
+    "updated_at": "2023-02-19T16:31:59.000000Z"
+    }
+    },
+    {
+    "id": 387,
+    "name": "Dharamshala",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 388,
+    "name": "dehradun",
+    "state": {
+    "id": 30,
+    "country_id": 2,
+    "name": "Uttarakhand",
+    "created_at": "2023-02-19T16:31:59.000000Z",
+    "updated_at": "2023-02-19T16:31:59.000000Z"
+    }
+    },
+    {
+    "id": 389,
+    "name": "Mc Leod Ganj",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 390,
+    "name": "leh",
+    "state": {
+    "id": 33,
+    "country_id": 2,
+    "name": "Ladakh",
+    "created_at": "2023-05-06T09:02:17.000000Z",
+    "updated_at": "2023-05-06T09:02:17.000000Z"
+    }
+    },
+    {
+    "id": 391,
+    "name": "Khajjiar",
+    "state": {
+    "id": 13,
+    "country_id": 2,
+    "name": "Himachal Pradesh",
+    "created_at": "2023-02-19T16:28:35.000000Z",
+    "updated_at": "2023-02-19T16:28:35.000000Z"
+    }
+    },
+    {
+    "id": 392,
+    "name": "kodaikanal",
+    "state": {
+    "id": 28,
+    "country_id": 2,
+    "name": "Tamil Nadu",
+    "created_at": "2023-02-19T16:31:42.000000Z",
+    "updated_at": "2023-02-19T16:31:42.000000Z"
+    }
+    },
+    {
+    "id": 393,
+    "name": "Mussoorie",
+    "state": {
+    "id": 30,
+    "country_id": 2,
+    "name": "Uttarakhand",
+    "created_at": "2023-02-19T16:31:59.000000Z",
+    "updated_at": "2023-02-19T16:31:59.000000Z"
+    }
+    },
+    {
+    "id": 394,
+    "name": "lonavala",
+    "state": {
+    "id": 19,
+    "country_id": 2,
+    "name": "Maharashtra",
+    "created_at": "2023-02-19T16:30:52.000000Z",
+    "updated_at": "2023-02-19T16:30:52.000000Z"
+    }
+    },
+    {
+    "id": 395,
+    "name": "pune",
+    "state": {
+    "id": 19,
+    "country_id": 2,
+    "name": "Maharashtra",
+    "created_at": "2023-02-19T16:30:52.000000Z",
+    "updated_at": "2023-02-19T16:30:52.000000Z"
+    }
+    },
+    {
+    "id": 396,
+    "name": "rishikesh",
+    "state": {
+    "id": 30,
+    "country_id": 2,
+    "name": "Uttarakhand",
+    "created_at": "2023-02-19T16:31:59.000000Z",
+    "updated_at": "2023-02-19T16:31:59.000000Z"
+    }
+    },
+    {
+    "id": 397,
+    "name": "shillong",
+    "state": {
+    "id": 21,
+    "country_id": 2,
+    "name": "Meghalaya",
+    "created_at": "2023-02-19T16:31:03.000000Z",
+    "updated_at": "2023-02-19T16:31:03.000000Z"
+    }
+    },
+    {
+    "id": 398,
+    "name": "srinagar",
+    "state": {
+    "id": 34,
+    "country_id": 2,
+    "name": "Jammu and Kashmir",
+    "created_at": "2023-05-12T11:21:07.000000Z",
+    "updated_at": "2023-05-12T11:21:07.000000Z"
+    }
+    },
+    {
+    "id": 399,
+    "name": "Vishakhapatnam",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    },
+    {
+    "id": 400,
+    "name": "mumbai",
+    "state": {
+    "id": 19,
+    "country_id": 2,
+    "name": "Maharashtra",
+    "created_at": "2023-02-19T16:30:52.000000Z",
+    "updated_at": "2023-02-19T16:30:52.000000Z"
+    }
+    },
+    {
+    "id": 401,
+    "name": "mahabalipuram",
+    "state": {
+    "id": 28,
+    "country_id": 2,
+    "name": "Tamil Nadu",
+    "created_at": "2023-02-19T16:31:42.000000Z",
+    "updated_at": "2023-02-19T16:31:42.000000Z"
+    }
+    },
+    {
+    "id": 402,
+    "name": "Gokarna",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 403,
+    "name": "Coimbatore",
+    "state": {
+    "id": 28,
+    "country_id": 2,
+    "name": "Tamil Nadu",
+    "created_at": "2023-02-19T16:31:42.000000Z",
+    "updated_at": "2023-02-19T16:31:42.000000Z"
+    }
+    },
+    {
+    "id": 404,
+    "name": "allepey",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 405,
+    "name": "Mangalore",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 406,
+    "name": "Kanchipuram",
+    "state": {
+    "id": 28,
+    "country_id": 2,
+    "name": "Tamil Nadu",
+    "created_at": "2023-02-19T16:31:42.000000Z",
+    "updated_at": "2023-02-19T16:31:42.000000Z"
+    }
+    },
+    {
+    "id": 407,
+    "name": "Coorg",
+    "state": {
+    "id": 16,
+    "country_id": 2,
+    "name": "Karnataka",
+    "created_at": "2023-02-19T16:30:34.000000Z",
+    "updated_at": "2023-02-19T16:30:34.000000Z"
+    }
+    },
+    {
+    "id": 408,
+    "name": "rameshwaram",
+    "state": {
+    "id": 28,
+    "country_id": 2,
+    "name": "Tamil Nadu",
+    "created_at": "2023-02-19T16:31:42.000000Z",
+    "updated_at": "2023-02-19T16:31:42.000000Z"
+    }
+    },
+    {
+    "id": 409,
+    "name": "Wayanad",
+    "state": {
+    "id": 17,
+    "country_id": 2,
+    "name": "Kerala",
+    "created_at": "2023-02-19T16:30:39.000000Z",
+    "updated_at": "2023-02-19T16:30:39.000000Z"
+    }
+    },
+    {
+    "id": 410,
+    "name": "Thanjavur",
+    "state": {
+    "id": 28,
+    "country_id": 2,
+    "name": "Tamil Nadu",
+    "created_at": "2023-02-19T16:31:42.000000Z",
+    "updated_at": "2023-02-19T16:31:42.000000Z"
+    }
+    },
+    {
+    "id": 411,
+    "name": "Mt Abu",
+    "state": {
+    "id": 26,
+    "country_id": 2,
+    "name": "Rajasthan",
+    "created_at": "2023-02-19T16:31:28.000000Z",
+    "updated_at": "2023-02-19T16:31:28.000000Z"
+    }
+    },
+    {
+    "id": 412,
+    "name": "dd",
+    "state": {
+    "id": 3,
+    "country_id": 2,
+    "name": "Andhra Pradesh",
+    "created_at": "2023-02-19T16:23:20.000000Z",
+    "updated_at": "2023-02-19T16:23:20.000000Z"
+    }
+    }
+    ]
+    }
