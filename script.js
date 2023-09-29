@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
             return;
         }
 
+        // Make request to Node server
         try {
             const response = await fetch(`/search?source=${sourceCity}&destination=${destinationCity}`);
             const data = await response.json();
@@ -24,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
               resultContainer.innerHTML = `<p>Error: ${data.error}</p>`;
             }
           } catch (error) {
-            console.error("Error fetching data from the server:", error);
+            console.log("Error fetching data from the server:", error);
             resultContainer.innerHTML = `<p>Error: Internal server error</p>`;
           }
 
