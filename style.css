@@ -34,7 +34,7 @@ label {
 input {
     border: 1px solid #ffffff;
     border-radius: 50px;
-    padding: 10px;
+    padding: 10px 15px;
     margin-bottom: 10px;
     box-shadow: inset 0px 5px 19px -3px rgba(0,0,0,0.1);
 }
@@ -62,4 +62,12 @@ button:hover {
 #result-container {
     margin-top: 20px;
     text-align: center;
+}
+
+@media (max-width: 430px) {
+    .main_container {
+        width: 80vw;
+        height: auto;
+        margin-top: 20vh;
+    }
 }
