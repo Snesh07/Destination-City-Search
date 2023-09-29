@@ -15,28 +15,18 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         try {
-            // Fetch data from the API
-            const response = await fetch("https://gowithgbi.com/api/city");
-
-            if (!response.ok) {
-                throw new Error(`HTTP error! Status: ${response.status}`);
-            }
-
+            const response = await fetch(`/search?source=${sourceCity}&destination=${destinationCity}`);
             const data = await response.json();
-
-            // Filter the data based on the source city
-            const filteredData = data.filter((city) => city.name === sourceCity);
-
-            if (filteredData.length === 0) {
-                alert("Source city not found in the API.");
-                return;
+      
+            if (response.ok) {
+              resultContainer.innerHTML = `<p>Destination City: ${data.destinationCity}</p>`;
+            } else {
+              resultContainer.innerHTML = `<p>Error: ${data.error}</p>`;
             }
+          } catch (error) {
+            console.error("Error fetching data from the server:", error);
+            resultContainer.innerHTML = `<p>Error: Internal server error</p>`;
+          }
 
-            // Display the destination city as the result
-            const resultCity = filteredData[0].destination;
-            resultContainer.innerHTML = `<p>Destination City: ${resultCity}</p>`;
-        } catch (error) {
-            console.error("Error fetching data from the API:", error);
-        }
     });
 });
